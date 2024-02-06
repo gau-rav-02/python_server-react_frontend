@@ -7,3 +7,7 @@
 ## Working
 - By using flask server, send data to localhost 5000
 - Then fetch that data from React
+
+<br/>
+
+#### Note: I have used Vite.js to create a React application, but you can also opt for the simple "npm create-react-app" method.
